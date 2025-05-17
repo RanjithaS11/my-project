@@ -1,2 +1,2 @@
 # my-project
-hello world
+print('hello world')
